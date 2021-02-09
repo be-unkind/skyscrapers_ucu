@@ -1,3 +1,4 @@
+'''https://github.com/be-unkind/skyscrapers_ucu'''
 def read_input(path: str) -> list:
     '''
     Read game board file from path.
